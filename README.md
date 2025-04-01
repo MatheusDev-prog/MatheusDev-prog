@@ -50,16 +50,16 @@ me = Desenvolvedor()
 
 ## 📊 Stats
 
-![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDev&show_icons=true&theme=radical)
+![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDev-prog&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Streak
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusDev&theme=radical)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusDev-prog&theme=radical)
 
 ---
 
 ## 🌐 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDev-prog&layout=compact&theme=radical)
